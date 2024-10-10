@@ -1,0 +1,1 @@
+A local version of the shader program offered on shadertoy.com running in python
